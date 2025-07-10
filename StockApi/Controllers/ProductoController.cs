@@ -15,28 +15,26 @@ namespace StockApi.Controllers
             _context = context;
         }
 
-        [HttpGet]
-        public IActionResult Get() => Ok(_context.Productos.ToList());
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Producto>> GetProducto(int id)
+        {
+            var producto = await _context.Productos.FindAsync(id);
+            if (producto == null)
+            {
+                return NotFound();
+            }
+            return producto;
+        }
+
 
         [HttpPost]
-        public IActionResult Post([FromBody] Producto producto)
+        public async Task<IActionResult> PostProducto([FromBody] Producto producto)
         {
             _context.Productos.Add(producto);
-            _context.SaveChanges();
-            return CreatedAtAction(nameof(Get), new { id = producto.Id }, producto);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(GetProducto), new { id = producto.Id }, producto);
         }
 
-        [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] Producto producto)
-        {
-            var prod = _context.Productos.Find(id);
-            if (prod == null) return NotFound();
-            prod.Nombre = producto.Nombre;
-            prod.Stock = producto.Stock;
-            prod.Precio = producto.Precio;
-            _context.SaveChanges();
-            return NoContent();
-        }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)

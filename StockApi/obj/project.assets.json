@@ -2335,11 +2335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matua\\StockApi\\StockApi.csproj",
+      "projectUniqueName": "C:\\Users\\matua\\StockApi\\StockApi\\StockApi.csproj",
       "projectName": "StockApi",
-      "projectPath": "C:\\Users\\matua\\StockApi\\StockApi.csproj",
+      "projectPath": "C:\\Users\\matua\\StockApi\\StockApi\\StockApi.csproj",
       "packagesPath": "C:\\Users\\matua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matua\\StockApi\\obj\\",
+      "outputPath": "C:\\Users\\matua\\StockApi\\StockApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
