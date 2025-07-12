@@ -3,7 +3,7 @@ using StockApi.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// --- Servicios ---
 builder.Services.AddControllers();
 builder.Services.AddDbContext<StockDbContext>(options =>
     options.UseMySql(
@@ -15,7 +15,12 @@ builder.Services.AddCors();
 
 var app = builder.Build();
 
+// --- Middleware ---
+app.UseRouting(); // <- Importante para enrutar correctamente
 app.UseCors(x => x.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+app.UseAuthorization();
+
+// --- Rutas ---
 app.MapControllers();
 
 app.Run();

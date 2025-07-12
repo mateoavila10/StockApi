@@ -6,6 +6,8 @@ namespace StockApi.Data
     public class StockDbContext : DbContext
     {
         public DbSet<Producto> Productos { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Empleado> Empleados { get; set;}
         public StockDbContext(DbContextOptions<StockDbContext> options) : base(options) { }
     }
 }

@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matua\\StockApi\\StockApi\\StockApi.csproj": {}
+    "C:\\Users\\agust\\StockApi\\StockApi\\StockApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matua\\StockApi\\StockApi\\StockApi.csproj": {
+    "C:\\Users\\agust\\StockApi\\StockApi\\StockApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matua\\StockApi\\StockApi\\StockApi.csproj",
+        "projectUniqueName": "C:\\Users\\agust\\StockApi\\StockApi\\StockApi.csproj",
         "projectName": "StockApi",
-        "projectPath": "C:\\Users\\matua\\StockApi\\StockApi\\StockApi.csproj",
-        "packagesPath": "C:\\Users\\matua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matua\\StockApi\\StockApi\\obj\\",
+        "projectPath": "C:\\Users\\agust\\StockApi\\StockApi\\StockApi.csproj",
+        "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agust\\StockApi\\StockApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\matua\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,16 +37,15 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -84,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.409/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
