@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using StockApi.Data;
 
@@ -11,9 +12,11 @@ using StockApi.Data;
 namespace StockApi.Migrations
 {
     [DbContext(typeof(StockDbContext))]
-    partial class StockDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250716161630_Movimientos")]
+    partial class Movimientos
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -99,35 +102,6 @@ namespace StockApi.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Productos");
-                });
-
-            modelBuilder.Entity("StockApi.Models.Proveedor", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Correo")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Direccion")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Nombre")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.Property<string>("Telefono")
-                        .IsRequired()
-                        .HasColumnType("longtext");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Proveedores");
                 });
 
             modelBuilder.Entity("StockApi.Models.Usuario", b =>

@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using StockApi.Data;
 
@@ -11,9 +12,11 @@ using StockApi.Data;
 namespace StockApi.Migrations
 {
     [DbContext(typeof(StockDbContext))]
-    partial class StockDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250717133857_TablaProveedores")]
+    partial class TablaProveedores
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -121,9 +124,8 @@ namespace StockApi.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<string>("Telefono")
-                        .IsRequired()
-                        .HasColumnType("longtext");
+                    b.Property<int>("Telefono")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
