@@ -2542,11 +2542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\StockApi.csproj",
+      "projectUniqueName": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi.csproj",
       "projectName": "StockApi",
-      "projectPath": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\StockApi.csproj",
+      "projectPath": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi.csproj",
       "packagesPath": "C:\\Users\\matua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\obj\\",
+      "outputPath": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
