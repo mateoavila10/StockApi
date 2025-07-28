@@ -6,7 +6,7 @@ using StockApi.Models;
 namespace StockApi.Controllers
 {
   [ApiController]
-  [Route("movimientos")]
+  [Route("api/movimientos")]
   public class MovimientoStockController : ControllerBase
   {
     private readonly StockDbContext _context;

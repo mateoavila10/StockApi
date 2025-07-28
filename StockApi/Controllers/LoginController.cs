@@ -5,7 +5,7 @@ using StockApi.Models;
 namespace StockApi.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/login")]
     public class LoginController : ControllerBase
     {
         private readonly StockDbContext _context;

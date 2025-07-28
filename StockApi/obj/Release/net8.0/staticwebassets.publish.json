@@ -1,0 +1,1464 @@
+{
+  "Version": 1,
+  "Hash": "FJk8Dk9agStx/ikLrp4RQpG3gZ3pYtgWixSnxAxqBAY=",
+  "Source": "StockApi",
+  "BasePath": "_content/StockApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockApi\\wwwroot",
+      "Source": "StockApi",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\index.html",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0j3kv0j8ua",
+      "Integrity": "JALBLcyleyLkXEKRn1yUhEKGUdiLcUCOijndoskX+qI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\empleado.js",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "js/empleado#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y3wg6v2byp",
+      "Integrity": "cncvbjK8IVS25oBzUaEY769/Z9+l4WtqL/gjn0MQjCo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\empleado.js"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\login.js",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "js/login#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wcgfznjsua",
+      "Integrity": "kO9DcP7dft9oUjwSnzQE0FhfjsjH7oS/BIBB0CAFgRY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\main.js",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "js/main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mb1kggtojv",
+      "Integrity": "smPckXAdyCdKhSn7hK1wx0hE7UhRN21wG8b/fCSY77I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\movimientos.js",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "js/movimientos#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7reug9zuvw",
+      "Integrity": "MypZtgD6fZ401J8Ac9Lzo17E05DKED05I7hzMlwrXHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\movimientos.js"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\proveedores.js",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "js/proveedores#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7dqsktcyuj",
+      "Integrity": "e9xcLC8RXNJHSp9IihCUc/FbfilXIvfkhX/b9Su3Jo4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\proveedores.js"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\RegistroEmpleado.js",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "js/RegistroEmpleado#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9upyvs787v",
+      "Integrity": "UZb7mFAimptQCr8Sph9Pj3A20JE7dYT/Vdwo6Y/myZo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\RegistroEmpleado.js"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Empleados.html",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "pages/Empleados#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fbgom9bzej",
+      "Integrity": "ZY3okB3J0yG1kQiSMxa/9/2wuBT3a0GmFviPLFzt9JE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\Empleados.html"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\GestionProductos.html",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "pages/GestionProductos#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pmpf2wvlb7",
+      "Integrity": "gSFIOKykh09P1gdKvsio5MK51SN6+tcv5qEyaWWikeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\GestionProductos.html"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Movimientos.html",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "pages/Movimientos#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "guxe92ohi9",
+      "Integrity": "2FMIznwmYkMQw9o2QQ6cJ6ocMVZ4y2XX72REo0krRRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\Movimientos.html"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Proveedores.html",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "pages/Proveedores#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ckjzj360n",
+      "Integrity": "UDOIY91We7rSwjQWdYqaXcyKlkPGxtrjiUd4U4c7KeM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\Proveedores.html"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\RegistroEmpleado.html",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "pages/RegistroEmpleado#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r6ipx4ncn9",
+      "Integrity": "rRYV6tHsVKCwE7Tb+LH2MornKEeb6nBBpAwC74ie9wE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\RegistroEmpleado.html"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Soporte.html",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "pages/Soporte#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lp9ut7kxps",
+      "Integrity": "qcXTTUgz4wBq5o35Mdf7g+DjwUjK/KnpFCPTJH3aMJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pages\\Soporte.html"
+    },
+    {
+      "Identity": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\stylelogin.css",
+      "SourceId": "StockApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\",
+      "BasePath": "_content/StockApi",
+      "RelativePath": "stylelogin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2d3fxabwrd",
+      "Integrity": "xpff0Q/Z1M5x5glWPKrio1pOlPWb79f7phu5q6F1I60=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\stylelogin.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.0j3kv0j8ua.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JALBLcyleyLkXEKRn1yUhEKGUdiLcUCOijndoskX+qI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0j3kv0j8ua"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JALBLcyleyLkXEKRn1yUhEKGUdiLcUCOijndoskX+qI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JALBLcyleyLkXEKRn1yUhEKGUdiLcUCOijndoskX+qI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JALBLcyleyLkXEKRn1yUhEKGUdiLcUCOijndoskX+qI="
+        }
+      ]
+    },
+    {
+      "Route": "js/empleado.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\empleado.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cncvbjK8IVS25oBzUaEY769/Z9+l4WtqL/gjn0MQjCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cncvbjK8IVS25oBzUaEY769/Z9+l4WtqL/gjn0MQjCo="
+        }
+      ]
+    },
+    {
+      "Route": "js/empleado.y3wg6v2byp.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\empleado.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4073"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cncvbjK8IVS25oBzUaEY769/Z9+l4WtqL/gjn0MQjCo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y3wg6v2byp"
+        },
+        {
+          "Name": "label",
+          "Value": "js/empleado.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cncvbjK8IVS25oBzUaEY769/Z9+l4WtqL/gjn0MQjCo="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kO9DcP7dft9oUjwSnzQE0FhfjsjH7oS/BIBB0CAFgRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kO9DcP7dft9oUjwSnzQE0FhfjsjH7oS/BIBB0CAFgRY="
+        }
+      ]
+    },
+    {
+      "Route": "js/login.wcgfznjsua.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\login.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1045"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kO9DcP7dft9oUjwSnzQE0FhfjsjH7oS/BIBB0CAFgRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wcgfznjsua"
+        },
+        {
+          "Name": "label",
+          "Value": "js/login.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kO9DcP7dft9oUjwSnzQE0FhfjsjH7oS/BIBB0CAFgRY="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"smPckXAdyCdKhSn7hK1wx0hE7UhRN21wG8b/fCSY77I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-smPckXAdyCdKhSn7hK1wx0hE7UhRN21wG8b/fCSY77I="
+        }
+      ]
+    },
+    {
+      "Route": "js/main.mb1kggtojv.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3993"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"smPckXAdyCdKhSn7hK1wx0hE7UhRN21wG8b/fCSY77I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mb1kggtojv"
+        },
+        {
+          "Name": "label",
+          "Value": "js/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-smPckXAdyCdKhSn7hK1wx0hE7UhRN21wG8b/fCSY77I="
+        }
+      ]
+    },
+    {
+      "Route": "js/movimientos.7reug9zuvw.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\movimientos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MypZtgD6fZ401J8Ac9Lzo17E05DKED05I7hzMlwrXHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7reug9zuvw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/movimientos.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MypZtgD6fZ401J8Ac9Lzo17E05DKED05I7hzMlwrXHw="
+        }
+      ]
+    },
+    {
+      "Route": "js/movimientos.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\movimientos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3882"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MypZtgD6fZ401J8Ac9Lzo17E05DKED05I7hzMlwrXHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MypZtgD6fZ401J8Ac9Lzo17E05DKED05I7hzMlwrXHw="
+        }
+      ]
+    },
+    {
+      "Route": "js/proveedores.7dqsktcyuj.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\proveedores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e9xcLC8RXNJHSp9IihCUc/FbfilXIvfkhX/b9Su3Jo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7dqsktcyuj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/proveedores.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e9xcLC8RXNJHSp9IihCUc/FbfilXIvfkhX/b9Su3Jo4="
+        }
+      ]
+    },
+    {
+      "Route": "js/proveedores.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\proveedores.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e9xcLC8RXNJHSp9IihCUc/FbfilXIvfkhX/b9Su3Jo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e9xcLC8RXNJHSp9IihCUc/FbfilXIvfkhX/b9Su3Jo4="
+        }
+      ]
+    },
+    {
+      "Route": "js/RegistroEmpleado.9upyvs787v.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\RegistroEmpleado.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UZb7mFAimptQCr8Sph9Pj3A20JE7dYT/Vdwo6Y/myZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9upyvs787v"
+        },
+        {
+          "Name": "label",
+          "Value": "js/RegistroEmpleado.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZb7mFAimptQCr8Sph9Pj3A20JE7dYT/Vdwo6Y/myZo="
+        }
+      ]
+    },
+    {
+      "Route": "js/RegistroEmpleado.js",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\js\\RegistroEmpleado.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3297"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UZb7mFAimptQCr8Sph9Pj3A20JE7dYT/Vdwo6Y/myZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 16:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UZb7mFAimptQCr8Sph9Pj3A20JE7dYT/Vdwo6Y/myZo="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Empleados.fbgom9bzej.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Empleados.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZY3okB3J0yG1kQiSMxa/9/2wuBT3a0GmFviPLFzt9JE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fbgom9bzej"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/Empleados.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZY3okB3J0yG1kQiSMxa/9/2wuBT3a0GmFviPLFzt9JE="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Empleados.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Empleados.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZY3okB3J0yG1kQiSMxa/9/2wuBT3a0GmFviPLFzt9JE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZY3okB3J0yG1kQiSMxa/9/2wuBT3a0GmFviPLFzt9JE="
+        }
+      ]
+    },
+    {
+      "Route": "pages/GestionProductos.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\GestionProductos.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gSFIOKykh09P1gdKvsio5MK51SN6+tcv5qEyaWWikeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gSFIOKykh09P1gdKvsio5MK51SN6+tcv5qEyaWWikeE="
+        }
+      ]
+    },
+    {
+      "Route": "pages/GestionProductos.pmpf2wvlb7.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\GestionProductos.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6940"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gSFIOKykh09P1gdKvsio5MK51SN6+tcv5qEyaWWikeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmpf2wvlb7"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/GestionProductos.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gSFIOKykh09P1gdKvsio5MK51SN6+tcv5qEyaWWikeE="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Movimientos.guxe92ohi9.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Movimientos.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FMIznwmYkMQw9o2QQ6cJ6ocMVZ4y2XX72REo0krRRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "guxe92ohi9"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/Movimientos.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FMIznwmYkMQw9o2QQ6cJ6ocMVZ4y2XX72REo0krRRc="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Movimientos.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Movimientos.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FMIznwmYkMQw9o2QQ6cJ6ocMVZ4y2XX72REo0krRRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FMIznwmYkMQw9o2QQ6cJ6ocMVZ4y2XX72REo0krRRc="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Proveedores.0ckjzj360n.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Proveedores.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDOIY91We7rSwjQWdYqaXcyKlkPGxtrjiUd4U4c7KeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ckjzj360n"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/Proveedores.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDOIY91We7rSwjQWdYqaXcyKlkPGxtrjiUd4U4c7KeM="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Proveedores.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Proveedores.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDOIY91We7rSwjQWdYqaXcyKlkPGxtrjiUd4U4c7KeM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDOIY91We7rSwjQWdYqaXcyKlkPGxtrjiUd4U4c7KeM="
+        }
+      ]
+    },
+    {
+      "Route": "pages/RegistroEmpleado.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\RegistroEmpleado.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rRYV6tHsVKCwE7Tb+LH2MornKEeb6nBBpAwC74ie9wE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRYV6tHsVKCwE7Tb+LH2MornKEeb6nBBpAwC74ie9wE="
+        }
+      ]
+    },
+    {
+      "Route": "pages/RegistroEmpleado.r6ipx4ncn9.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\RegistroEmpleado.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rRYV6tHsVKCwE7Tb+LH2MornKEeb6nBBpAwC74ie9wE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r6ipx4ncn9"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/RegistroEmpleado.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rRYV6tHsVKCwE7Tb+LH2MornKEeb6nBBpAwC74ie9wE="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Soporte.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Soporte.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qcXTTUgz4wBq5o35Mdf7g+DjwUjK/KnpFCPTJH3aMJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qcXTTUgz4wBq5o35Mdf7g+DjwUjK/KnpFCPTJH3aMJA="
+        }
+      ]
+    },
+    {
+      "Route": "pages/Soporte.lp9ut7kxps.html",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\pages\\Soporte.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qcXTTUgz4wBq5o35Mdf7g+DjwUjK/KnpFCPTJH3aMJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp9ut7kxps"
+        },
+        {
+          "Name": "label",
+          "Value": "pages/Soporte.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qcXTTUgz4wBq5o35Mdf7g+DjwUjK/KnpFCPTJH3aMJA="
+        }
+      ]
+    },
+    {
+      "Route": "stylelogin.2d3fxabwrd.css",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\stylelogin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpff0Q/Z1M5x5glWPKrio1pOlPWb79f7phu5q6F1I60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d3fxabwrd"
+        },
+        {
+          "Name": "label",
+          "Value": "stylelogin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpff0Q/Z1M5x5glWPKrio1pOlPWb79f7phu5q6F1I60="
+        }
+      ]
+    },
+    {
+      "Route": "stylelogin.css",
+      "AssetFile": "C:\\Users\\matua\\Downloads\\StockApi (3)\\StockApi\\StockApi\\wwwroot\\stylelogin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xpff0Q/Z1M5x5glWPKrio1pOlPWb79f7phu5q6F1I60=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 15:19:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xpff0Q/Z1M5x5glWPKrio1pOlPWb79f7phu5q6F1I60="
+        }
+      ]
+    }
+  ]
+}
